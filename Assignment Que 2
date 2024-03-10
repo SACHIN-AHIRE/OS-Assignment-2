@@ -1,0 +1,20 @@
+What will the following commands do?
+Identify True or False: 
+Identify the Incorrect Commands
+Question 1: Write a shell script that prints "Hello, World!" to the terminal. 
+Question 2: Declare a variable named "name" and assign the value "CDAC Mumbai" to it. Print the 
+value of the variable. 
+Question 3: Write a shell script that takes a number as input from the user and prints it. 
+Question 4: Write a shell script that performs addition of two numbers (e.g., 5 and 3) and prints the 
+result. 
+Question 5: Write a shell script that takes a number as input and prints "Even" if it is even, otherwise 
+prints "Odd". 
+Question 6: Write a shell script that uses a for loop to print numbers from 1 to 5. 
+Question 7: Write a shell script that uses a while loop to print numbers from 1 to 5. 
+Question 8: Write a shell script that checks if a file named "file.txt" exists in the current directory. If it 
+does, print "File exists", otherwise, print "File does not exist". 
+Question 9: Write a shell script that uses the if statement to check if a number is greater than 10 and 
+prints a message accordingly. 
+Question 10: Write a shell script that uses nested for loops to print a multiplication table for numbers 
+from 1 to 5. The output should be formatted nicely, with each row representing a number and each 
+column representing the multiplication result for that number. 
